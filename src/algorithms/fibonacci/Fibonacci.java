@@ -1,3 +1,5 @@
+package algorithms.fibonacci;
+
 public class Fibonacci {
 
     private static long fibNaive(int n) {
