@@ -1,4 +1,4 @@
-package algorithms.greedyAlgorithms;
+package algorithms.greedyAlgorithmsExample;
 
 public class MinStops {
 

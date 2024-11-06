@@ -1,4 +1,4 @@
-package algorithms.grokkingAlgorithms;
+package algorithms.grokkingAlgorithmsExample;
 
 import java.util.Arrays;
 
